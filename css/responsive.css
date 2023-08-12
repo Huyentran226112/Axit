@@ -24,17 +24,17 @@
   .sub-right {
     padding-left: 0px;
   }
-  .sec-sub{
+  .sec-sub {
     padding-top: 50px;
     padding-bottom: 50px;
   }
   .standrad-img {
     float: none !important;
-    text-align: center!important;
+    text-align: center !important;
   }
   .sub-img {
     text-align: center;
-}
+  }
 }
 /* tablet:width >= 740px and width < 1024px */
 @media only screen and(min-width : 46.25em) and (max-width: 63.9375em) {
