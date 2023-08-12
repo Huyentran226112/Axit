@@ -183,6 +183,9 @@
 .sub-list-item {
   margin-bottom: 18px;
 }
+.sub-img img {
+  width: 100%;
+}
 .sec-standard {
   background-color: #f5f5f5;
 }
