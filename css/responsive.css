@@ -39,8 +39,11 @@
     padding-top: 53px;
     padding-bottom: 67px;
   }
-  .standard-text{
+  .standard-text {
     max-width: 100%;
+  }
+  .standard-right {
+    margin-bottom: 50px;
   }
 }
 /* tablet:width >= 740px and width < 1024px */
