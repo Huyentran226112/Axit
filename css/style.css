@@ -271,8 +271,9 @@ nav#mainNav {
 .why-item-text {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
-  color: #86878b;
+  color: rgb(134, 135, 139);
   margin-top: 23px;
+  padding: 0px 21px;
 }
 .why-title {
   font-family: "Raleway", sans-serif;
