@@ -178,11 +178,16 @@ nav#mainNav {
   gap: 34px;
 }
 .sub-list-item-icon img {
-  border: 1px solid #ff8b38;
+  max-width: 100%;
+}
+.sub-list-item-img {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border-radius: 50%;
-  padding: 6px;
-  width: 34px;
-  height: 32px;
+  border: 1px solid #ff8b38;
 }
 .sub-list-item {
   margin-bottom: 18px;
@@ -265,11 +270,18 @@ nav#mainNav {
   font-family: "Raleway", sans-serif;
 }
 .why-item-icon img {
+  max-width: 100%;
+}
+.why-item-icon-img {
   border: 1px solid #ff8b38;
   border-radius: 50%;
-  padding: 24px;
   width: 72px;
+  margin-left: auto;
   height: 69px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: auto;
 }
 .why-item {
   text-align: center;
@@ -375,7 +387,6 @@ nav#mainNav {
 .contact-footer {
   padding-top: 41px;
 }
-.about-img img{
-width: 100%;
-
+.about-img img {
+  width: 100%;
 }
