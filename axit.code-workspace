@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../axit-demo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "axit"
+	}
+}

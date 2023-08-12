@@ -210,7 +210,10 @@
   margin-bottom: 30px;
 }
 .standrad-img {
-  padding-left: 125px;
+  float: right;
+}
+.standrad-img img {
+  width: 100%;
 }
 .sec-why {
   padding-top: 100px;
