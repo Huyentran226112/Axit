@@ -1,0 +1,26 @@
+.navbar-toggler {
+  color: white;
+  border: 1px solid white;
+}
+/* mobile:width */
+@media only screen and(max-width:991px) {
+  .banner-right {
+    float: none;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  header.masthead {
+    padding-bottom: 70px;
+  }
+  .about-tab-content {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .about-img {
+    margin-top: 50px;
+  }
+}
+/* tablet:width >= 740px and width < 1024px */
+@media only screen and(min-width : 46.25em) and (max-width: 63.9375em) {
+}
