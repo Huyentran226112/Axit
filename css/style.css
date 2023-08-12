@@ -43,8 +43,14 @@ nav#mainNav {
   padding: 13px 30px;
 }
 
-.banner-right {
+/* .banner-right {
   width: 358px;
+  float: right;
+} */
+.banner-right {
+  padding-top: 36px;
+  width: 357px;
+  padding-right: 23px;
   float: right;
 }
 .banner-form-title {
