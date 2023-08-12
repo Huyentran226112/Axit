@@ -209,7 +209,9 @@ nav#mainNav {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   /* thay đoi  */
-  margin-right: 145px;
+  /* margin-right: 145px; */
+  max-width: 490px;
+
 }
 .standard-title {
   padding-top: 1px;
