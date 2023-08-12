@@ -1,6 +1,10 @@
 .custom-navbar {
   background-color: #000000;
 }
+nav#mainNav {
+  padding-top: 16px;
+  padding-bottom: 15px;
+}
 .custom-navbar-nav a {
   color: #c9c9c9;
   font-family: "Open Sans", sans-serif;
@@ -142,7 +146,7 @@
 }
 .sec-sub {
   padding-top: 106px;
-  padding-bottom: 135px;
+  padding-bottom: 66px;
 }
 .sub-right {
   padding-left: 154px;
@@ -204,6 +208,8 @@
   color: #86878b;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
+  /* thay đoi  */
+  margin-right: 145px;
 }
 .standard-title {
   padding-top: 1px;
@@ -213,6 +219,7 @@
 }
 .standrad-img {
   float: right;
+  margin-top: -28px;
 }
 .standrad-img img {
   max-width: 100%;
