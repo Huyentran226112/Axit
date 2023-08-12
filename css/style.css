@@ -200,6 +200,7 @@ nav#mainNav {
 }
 .sub-img img {
   max-width: 100%;
+  box-shadow: 4px 10px 20px 0px rgba(0, 0, 0, 0.5);
 }
 .sec-standard {
   background-color: #f5f5f5;
@@ -235,6 +236,7 @@ nav#mainNav {
 }
 .standrad-img img {
   max-width: 100%;
+  box-shadow: 4px 10px 20px 0px rgba(0, 0, 0, 0.5);
 }
 .sec-why {
   padding-top: 100px;
